@@ -8,6 +8,14 @@ This prototype was designed around five engineering principles:
 - Modular architecture supporting future regulatory rule expansion.
 - Respect for copyright and trademark by excluding commercial label artwork from the repository.
 
+- ## 🚀 Live Demo
+
+**Application:**
+https://treasury-ai-label-verifier-qepnbpjmfku7l2rpzmpldt.streamlit.app/
+
+**Source Code:**
+https://github.com/basharsaba/treasury-ai-label-verifier
+
 # Treasury AI Label Verification Prototype
 
 > AI-assisted alcohol label verification prototype developed for the U.S. Department of the Treasury AI Engineer take-home assessment.
