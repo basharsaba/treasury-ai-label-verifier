@@ -1,3 +1,13 @@
+## Design Goals
+
+This prototype was designed around five engineering principles:
+
+- Reviewer-friendly deployment with a one-click Windows launcher.
+- Offline capability through local Tesseract OCR.
+- Optional AI enhancement using OpenAI Vision.
+- Modular architecture supporting future regulatory rule expansion.
+- Respect for copyright and trademark by excluding commercial label artwork from the repository.
+
 # Treasury AI Label Verification Prototype
 
 > AI-assisted alcohol label verification prototype developed for the U.S. Department of the Treasury AI Engineer take-home assessment.
