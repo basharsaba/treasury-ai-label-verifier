@@ -1,0 +1,12 @@
+{
+  "brand_name": "Patrón Silver",
+  "class_type": "Tequila",
+  "alcohol_content": "40% ABV",
+  "net_contents": "750 ml",
+  "producer_name": "Patrón Spirits Mexico",
+  "producer_address": "Jalisco, Mexico",
+  "country_origin": "Mexico",
+  "government_warning": true,
+  "file_name": "patron_silver.png",
+  "record_id": "patron_silver"
+}

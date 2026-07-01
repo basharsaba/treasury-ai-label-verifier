@@ -1,0 +1,12 @@
+{
+  "brand_name": "Sierra Nevada Pale Ale",
+  "class_type": "Pale Ale",
+  "alcohol_content": "5.6% ABV",
+  "net_contents": "12 fl oz",
+  "producer_name": "Sierra Nevada Brewing Co.",
+  "producer_address": "Chico, California",
+  "country_origin": "United States",
+  "government_warning": true,
+  "file_name": "sierra_nevada_pale_ale.png",
+  "record_id": "sierra_nevada_pale_ale"
+}

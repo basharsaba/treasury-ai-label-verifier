@@ -1,0 +1,10 @@
+# Tested dependency ranges for Python 3.12.
+# This project intentionally keeps requirements.txt range-based for reviewer compatibility.
+# Recommended runtime: Python 3.12 with Tesseract OCR installed.
+streamlit>=1.41.1,<2.0
+pillow>=10.4.0,<12.0
+pandas>=2.2.2,<3.0
+pytesseract>=0.3.13,<0.4
+rapidfuzz>=3.9.7,<4.0
+requests>=2.32.3,<3.0
+openai>=1.60.0,<2.0

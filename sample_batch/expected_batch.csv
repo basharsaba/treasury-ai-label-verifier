@@ -1,0 +1,11 @@
+record_id,file_name,brand_name,class_type,alcohol_content,net_contents,producer_name,producer_address,country_origin
+corona_extra,corona_extra.png,Corona Extra,Pale Lager,4.5% ABV,355 ml,Crown Imports LLC,"Chicago, Illinois",Mexico
+sierra_nevada_pale_ale,sierra_nevada_pale_ale.png,Sierra Nevada Pale Ale,Pale Ale,5.6% ABV,12 fl oz,Sierra Nevada Brewing Co.,"Chico, California",United States
+robert_mondavi_cabernet,robert_mondavi_cabernet.png,Robert Mondavi Cabernet Sauvignon,Red Wine,14.5% ABV,750 ml,Robert Mondavi Winery,"Oakville, California",United States
+kendall_jackson_chardonnay,kendall_jackson_chardonnay.png,Kendall-Jackson Chardonnay,White Wine,13.5% ABV,750 ml,Kendall-Jackson Winery,"Santa Rosa, California",United States
+makers_mark,makers_mark.png,Maker's Mark,Kentucky Straight Bourbon Whiskey,45% ABV,750 ml,Maker's Mark Distillery,"Loretto, Kentucky",United States
+johnnie_walker_black,johnnie_walker_black.png,Johnnie Walker Black Label,Blended Scotch Whisky,40% ABV,750 ml,Diageo Scotland Limited,"Edinburgh, Scotland",Scotland
+titos_handmade_vodka,titos_handmade_vodka.png,Tito's Handmade Vodka,Vodka,40% ABV,750 ml,"Fifth Generation, Inc.","Austin, Texas",United States
+patron_silver,patron_silver.png,Patrón Silver,Tequila,40% ABV,750 ml,Patrón Spirits Mexico,"Jalisco, Mexico",Mexico
+bacardi_superior,bacardi_superior.png,Bacardi Superior,White Rum,40% ABV,750 ml,Bacardi Bottling Corporation,"Jacksonville, Florida",Puerto Rico
+bombay_sapphire,bombay_sapphire.png,Bombay Sapphire,Distilled Gin,47% ABV,750 ml,Bombay Spirits Company Ltd.,"Hampshire, England",England
